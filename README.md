@@ -412,4 +412,4 @@ Licensed under the MIT License; see [LICENSE](LICENSE).
 
 ## Contacts and citation
 
-No maintainer name, email, or publication citation is currently specified. Add project ownership and citation metadata here when available.
+Created by White_Coffee team.
